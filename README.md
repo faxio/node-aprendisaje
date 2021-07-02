@@ -1,7 +1,10 @@
-#Informacion:
+# Informacion:
+
     Primer programa de Node
-    ```
-    Options:
+
+```
+Options:
     Esta informacion es un resumen de Node
 
-    ```
+
+```
